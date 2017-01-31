@@ -11987,6 +11987,7 @@ projects:
     template:
       - name: merge-check
       - name: python-jobs
+      - name: publish-to-pypi
 
   - name: openstack/networking-brocade
     template:
